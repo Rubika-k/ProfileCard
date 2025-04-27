@@ -2,7 +2,7 @@
   "name": "profilecard",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Rubika-k.github.io/talerouterdom",
+  "homepage": "https://Rubika-k.github.io/profilecard",
  "type": "module",
   "scripts": {
     "dev": "vite",
